@@ -1,0 +1,27 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HannaNesterova/GIT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HannaNesterova/GIT/issues"
+  },
+  "homepage": "https://github.com/HannaNesterova/GIT#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "html-validate": "^7.10.1"
+  },
+  "dependencies": {
+    "node-g.raphael": "^0.0.9"
+  }
+}
